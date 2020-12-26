@@ -1,0 +1,271 @@
+.information2 {
+	background: red;
+	height: 480px;
+	width: auto;
+}
+
+.information2 .support {
+	height: 380px;
+	width: 310px;
+	background: transparent;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.information2 .uptime {
+	height: 380px;
+	width: 310px;
+	background: transparent;
+	overflow: hidden;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.information2 .redundancy {
+	height: 380px;
+	width: 310px;
+	background: transparent;
+	overflow: hidden;
+	float:left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.information2 .security {
+	height: 380px;
+	width: 310px;
+	background: transparent;
+	overflow: hidden;
+	margin-top: 10px;
+	float:right;
+	margin-right: 20px;
+}
+
+
+.information2 .support h3 {
+	text-align: center;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 22px;
+	color:#34495e;
+}
+
+.information2 .support p {
+	text-align: center;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	color:#34495e;
+}
+
+.information2 .support img {
+	height: 57px;
+	width:58px;
+	margin-left: 130px;
+	margin-top: 20px;
+}
+.information2 .support button {
+	text-align: center;
+	height: 40px;
+	width: 100px;
+	margin-left: 100px;
+	background: transparent;
+	border: 2px solid #2ECC71;
+	border-radius: 2px;
+	font-family: tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color:#34495e;
+}
+
+.information2 .support button:hover {
+	background: #34495E;
+	color: #ffffff;
+	border: #ffffff;
+}
+
+.information2 .support .line5 {
+	height: 3px;
+	width: 320px;
+	margin-bottom: 20px;
+	border: none;
+	background: #2ECC71;
+	margin-left: 0;
+	overflow: hidden;
+}
+.information2 .support:hover .line5 {
+	display: none;
+}
+
+.information2 .uptime h3 {
+	text-align: center;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 22px;
+	color:#34495e;
+}
+
+.information2 .uptime p {
+	text-align: center;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	color:#34495e;
+}
+
+.information2 .uptime img {
+	height: 57px;
+	width:58px;
+	margin-left: 130px;
+	margin-top: 20px;
+}
+.information2 .uptime button {
+	text-align: center;
+	height: 40px;
+	width: 100px;
+	margin-left: 100px;
+	background: transparent;
+	border: 2px solid #2ECC71;
+	border-radius: 2px;
+	font-family: tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color:#34495e;
+}
+
+.information2 .uptime button:hover {
+	background: #34495E;
+	color: #ffffff;
+	border: #ffffff;
+}
+
+.information2 .uptime .line6 {
+	height: 3px;
+	width: 320px;
+	margin-bottom: 20px;
+	border: none;
+	background: #2ECC71;
+	margin-left: 0;
+	overflow: hidden;
+}
+.information2 .uptime:hover .line6 {
+	display: none;
+}
+
+.information2 .redundancy h3 {
+	text-align: center;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 22px;
+	color:#34495e;
+}
+
+.information2 .redundancy p {
+	text-align: center;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	color:#34495e;
+}
+
+.information2 .redundancy img {
+	height: 57px;
+	width:58px;
+	margin-left: 130px;
+	margin-top: 20px;
+}
+.information2 .redundancy button {
+	text-align: center;
+	height: 40px;
+	width: 100px;
+	margin-left: 100px;
+	background: transparent;
+	border: 2px solid #2ECC71;
+	border-radius: 2px;
+	font-family: tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color:#34495e;
+}
+
+.information2 .redundancy button:hover {
+	background: #34495E;
+	color: #ffffff;
+	border: #ffffff;
+}
+
+.information2 .redundancy .line7 {
+	height: 3px;
+	width: 320px;
+	margin-bottom: 20px;
+	border: none;
+	background: #2ECC71;
+	margin-left: 0;
+	overflow: hidden;
+}
+.information2 .redundancy:hover .line7 {
+	display: none;
+}
+
+.information2 .security h3 {
+	text-align: center;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 22px;
+	color:#34495e;
+}
+
+.information2 .security p {
+	text-align: center;
+	font-family: tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+	color:#34495e;
+}
+
+.information2 .security img {
+	height: 57px;
+	width:58px;
+	margin-left: 130px;
+	margin-top: 20px;
+}
+.information2 .security button {
+	text-align: center;
+	height: 40px;
+	width: 100px;
+	margin-left: 100px;
+	background: transparent;
+	border: 2px solid #2ECC71;
+	border-radius: 2px;
+	font-family: tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color:#34495e;
+}
+
+.information2 .security > button:hover {
+	background: #34495E;
+	color: #ffffff;
+	border: #ffffff;
+}
+
+.information2 .security .line8 {
+	height: 3px;
+	width: 320px;
+	margin-bottom: 20px;
+	border: none;
+	background: #2ECC71;
+	margin-left: 0;
+	overflow: hidden;
+}
+.information2 .security:hover .line8 {
+	display: none;
+}
